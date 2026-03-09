@@ -20,3 +20,9 @@ os설명 (리눅스,wsl2 사용하기로 함)
 -----
 ## 다시 test
 ---
+
+## 3월 9일 첫수업
+#WSL 사용법
+# 저장 ctrl + S 꼭하고 출력
+cc-o limit limit.c 생성된 파일명
+# ./limit
